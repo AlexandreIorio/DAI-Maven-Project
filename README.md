@@ -7,3 +7,5 @@ To try how it works, the project can be compiled and runned using the following 
 ```
 java -jar .\target\java-intellij-idea-and-maven-1.0-SNAPSHOT.jar
 ```
+
+Here the full [course material](COURSE_MATERIAL.md) by L. Delafontaine and H. Louis
